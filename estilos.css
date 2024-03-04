@@ -1,0 +1,8 @@
+.info h1 {
+  text-align: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  background-color: blue;
+
+  border-radius: 50px;
+  color: brown;
+}
